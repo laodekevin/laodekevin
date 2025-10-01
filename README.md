@@ -1,4 +1,4 @@
-## Hi there 👋
+![laodekevin](img/github-header-banner%20(1).png)
 
 <!--
 **laodekevin/laodekevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Hai](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDhpeHM2NncwMjk2eGlmb3d2am0wN2xqeWQwMGw2eGlxYTc0bDJqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zk1ezog83LqYG4I2gx/giphy.gif)
