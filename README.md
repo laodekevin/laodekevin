@@ -14,12 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Hai](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDhpeHM2NncwMjk2eGlmb3d2am0wN2xqeWQwMGw2eGlxYTc0bDJqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zk1ezog83LqYG4I2gx/giphy.gif)
+<div style="text-align:center;">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDhpeHM2NncwMjk2eGlmb3d2am0wN2xqeWQwMGw2eGlxYTc0bDJqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zk1ezog83LqYG4I2gx/giphy.gif" 
+     alt="Hai" 
+     width="200">
 
 
 
 #### CONTACT
-<div style="text-align:center;">
+
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" />
