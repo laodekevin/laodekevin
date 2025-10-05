@@ -1,4 +1,4 @@
-![laodekevin](img/github-header-banner%20(1).png)
+![laodekevin](img/github-header-banner%20(2).png)
 
 <!--
 **laodekevin/laodekevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
