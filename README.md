@@ -35,31 +35,3 @@ Here are some ideas to get you started:
 
 </div>
 
-# 👋 Hi, I'm Kevin!
-I'm a DevOps Engineer from 🇮🇩
-
-## 🚀 About Me
-- 🌱 I’m currently learning Docker, Kubernetes, and CI/CD pipelines  
-- 🧠 Passionate about automation and cloud infrastructure  
-- 💬 Ask me about Linux, DevOps tools, and backend development  
-- ⚡ Fun fact: I love solving tech challenges and simplifying workflows  
-
----
-
-## 📊 Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laodekevin&layout=compact&theme=radical)
-
-## ⚡ GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=laodekevin&show_icons=true&theme=radical)
-
----
-
-### 🧠 Currently Exploring
-- Terraform & Ansible  
-- CI/CD with Jenkins & GitHub Actions  
-- Cloud (AWS / GCP)
-
----
-
-💬 *Connect with me:*  
-📫 [laodekevin](https://github.com/laodekevin)
