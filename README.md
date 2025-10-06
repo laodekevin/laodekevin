@@ -21,7 +21,15 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-Setiap ide berawal dari rasa penasaran, dan dari sanalah semuanya tumbuh.<br>Hai Saya Kevin, mahasiswa Teknik Informatika yang sedang fokus mendalami desain dan web development.<br>Saat ini saya sedang belajar berbagai bahasa pemrograman web agar bisa berguna dan siap saat lulus nanti.<br>Saya juga sering membuat desain konten dan sesekali mengunggah hasilnya ke media sosial.<br>Selain itu, saya memiliki ketertarikan di bidang pengembangan aplikasi, karena bagi saya teknologi bukan hanya soal kode, tetapi tentang bagaimana sesuatu bisa bermanfaat bagi orang lain.
+<h3 align="center">✨ Setiap ide berawal dari rasa penasaran ✨</h3>
+<p align="center">
+Hai Saya <b>Kevin</b>, mahasiswa <b>Teknik Informatika</b> yang sedang fokus mendalami <i>desain</i> dan <i>web development</i>.<br>
+Saat ini saya sedang belajar berbagai bahasa pemrograman web agar bisa berguna dan siap saat lulus nanti.<br>
+Saya juga sering membuat desain konten dan sesekali mengunggah hasilnya ke media sosial.<br>
+Selain itu, saya memiliki ketertarikan di bidang pengembangan aplikasi, karena bagi saya teknologi bukan hanya soal kode,<br>
+tetapi tentang bagaimana sesuatu bisa bermanfaat bagi orang lain.
+</p>
+
 
 ## Contact
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/6282296650035)
