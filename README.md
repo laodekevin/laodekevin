@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 Setiap ide berawal dari rasa penasaran, dan dari sanalah semuanya tumbuh.<br>Hai Saya Kevin, mahasiswa Teknik Informatika yang sedang fokus mendalami desain dan web development.<br>Saat ini saya sedang belajar berbagai bahasa pemrograman web agar bisa berguna dan siap saat lulus nanti.<br>Saya juga sering membuat desain konten dan sesekali mengunggah hasilnya ke media sosial.<br>Selain itu, saya memiliki ketertarikan di bidang pengembangan aplikasi, karena bagi saya teknologi bukan hanya soal kode, tetapi tentang bagaimana sesuatu bisa bermanfaat bagi orang lain.
 
-## CONTACT
+## Contact
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/6282296650035)
 
 ## Soft Mood
@@ -51,15 +51,27 @@ Setiap ide berawal dari rasa penasaran, dan dari sanalah semuanya tumbuh.<br>Hai
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white)
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=laodekevin&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=laodekevin&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=laodekevin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=laodekevin&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="45%">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=laodekevin&theme=dark&hide_border=false" width="45%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laodekevin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="45%">
+</p>
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=laodekevin&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=laodekevin&limit=5&theme=dark&combine_all_yearly_contributions=true" width="50%">
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=laodekevin&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=laodekevin&icon=0&color=0" width="120">
+  </a>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
