@@ -52,28 +52,29 @@ Setiap ide berawal dari rasa penasaran, dan dari sanalah semuanya tumbuh.<br>Hai
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laodekevin&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="45%">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=laodekevin&theme=dark&hide_border=false" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=laodekevin&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" height="150px">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=laodekevin&theme=dark&hide_border=false" width="48%" height="150px">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laodekevin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laodekevin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%">
 </p>
 
 ## 🔝 Top Contributed Repo
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=laodekevin&limit=5&theme=dark&combine_all_yearly_contributions=true" width="50%">
+  <img src="https://github-contributor-stats.vercel.app/api?username=laodekevin&limit=5&theme=dark&combine_all_yearly_contributions=true" width="55%">
 </p>
 
 ---
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=laodekevin&icon=0&color=0" width="120">
+    <img src="https://visitcount.itsvg.in/api?id=laodekevin&icon=0&color=0" width="130">
   </a>
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 </div>
 
