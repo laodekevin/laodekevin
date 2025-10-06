@@ -26,7 +26,7 @@ Setiap ide berawal dari rasa penasaran, dan dari sanalah semuanya tumbuh.<br>Hai
 #### CONTACT
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282296650035)
 
-#### Soft Mood
+## Soft Mood
 [![Spotify](https://img.shields.io/badge/Spotify-%231DB954.svg?logo=Spotify&logoColor=white)](https://open.spotify.com/user/31dyupju2aijkcj5xoaw6a5hxszq?si=5dofu0W4Rjyd1cqiRgxCLQ)
 
 
