@@ -26,6 +26,10 @@ Setiap ide berawal dari rasa penasaran, dan dari sanalah semuanya tumbuh.<br>Hai
 #### CONTACT
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282296650035)
 
+#### Soft Mood
+[![Spotify](https://img.shields.io/badge/Spotify-%231DB954.svg?logo=Spotify&logoColor=white)](https://open.spotify.com/user/31dyupju2aijkcj5xoaw6a5hxszq?si=5dofu0W4Rjyd1cqiRgxCLQ)
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/velvynn_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@velvynn_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@laodekevin_eb4wr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:laodekevin10@gmail.com) 
 
