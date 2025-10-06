@@ -50,6 +50,7 @@ Setiap ide berawal dari rasa penasaran, dan dari sanalah semuanya tumbuh.<br>Hai
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?logo=flutter&logoColor=white)
+[![NetBeans IDE](https://img.shields.io/badge/netbeans-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white)](https://netbeans.apache.org/)
 
 
 ## 📊 GitHub Stats
