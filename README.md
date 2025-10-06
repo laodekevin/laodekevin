@@ -87,6 +87,9 @@ tetapi tentang bagaimana sesuatu bisa bermanfaat bagi orang lain.
   </a>
 </p>
 
+## Activity Graph
+![Kevin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=laodekevin&theme=react-dark)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
