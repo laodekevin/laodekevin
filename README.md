@@ -62,7 +62,8 @@ tetapi tentang bagaimana sesuatu bisa bermanfaat bagi orang lain.
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?logo=flutter&logoColor=white)
 [![NetBeans IDE](https://img.shields.io/badge/netbeans-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white)](https://netbeans.apache.org/)
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4.svg?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://github.com/username)
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=android-studio&logoColor=white)](https://developer.android.com/studio)
+
 
 
 
