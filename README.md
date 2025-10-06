@@ -81,13 +81,13 @@ tetapi tentang bagaimana sesuatu bisa bermanfaat bagi orang lain.
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=laodekevin&color=blue)
 
 
 
 ## Activity Graph
 ![Kevin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=laodekevin&theme=react-dark)
 
+![Profile Views](https://komarev.com/ghpvc/?username=laodekevin&color=blue)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
