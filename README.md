@@ -31,7 +31,8 @@ Setiap ide berawal dari rasa penasaran, dan dari sanalah semuanya tumbuh.<br>Hai
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/velvynn_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@velvynn_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@laodekevin_eb4wr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:laodekevin10@gmail.com) [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@velvynn_)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/velvynn_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@velvynn_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@laodekevin_eb4wr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:laodekevin10@gmail.com) [![Threads](https://img.shields.io/badge/Threads-%23000000.svg?logo=Threads&logoColor=white)](https://www.threads.com/@velvynn_)
+
 
 
 # 💻 Tech Stack:
