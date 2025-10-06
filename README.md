@@ -17,15 +17,14 @@ Here are some ideas to get you started:
 <div style="text-align:center;">
 
 
-#### CONTACT
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/velvynn_?igsh=MWJ5czN5NWc3N2s0Nw==)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282296650035)
 
 
 # 💫 About Me:
 Setiap ide berawal dari rasa penasaran, dan dari sanalah semuanya tumbuh.<br>Hai Saya Kevin, mahasiswa Teknik Informatika yang sedang fokus mendalami desain dan web development.<br>Saat ini saya sedang belajar berbagai bahasa pemrograman web agar bisa berguna dan siap saat lulus nanti.<br>Saya juga sering membuat desain konten dan sesekali mengunggah hasilnya ke media sosial.<br>Selain itu, saya memiliki ketertarikan di bidang pengembangan aplikasi, karena bagi saya teknologi bukan hanya soal kode, tetapi tentang bagaimana sesuatu bisa bermanfaat bagi orang lain.
 
+#### CONTACT
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282296650035)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/velvynn_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@velvynn_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@laodekevin_eb4wr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:laodekevin10@gmail.com) 
@@ -37,8 +36,6 @@ Setiap ide berawal dari rasa penasaran, dan dari sanalah semuanya tumbuh.<br>Hai
 ![](https://nirzak-streak-stats.vercel.app/?user=laodekevin&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=laodekevin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=laodekevin&limit=5&theme=dark&combine_all_yearly_contributions=true)
