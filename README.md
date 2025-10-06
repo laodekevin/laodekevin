@@ -81,14 +81,9 @@ tetapi tentang bagaimana sesuatu bisa bermanfaat bagi orang lain.
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=laodekevin&icon=0&color=0" width="130">
-  </a>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=laodekevin&color=blue)
 
-## Skill Chart
-![Kevin's Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=laodekevin&theme=github_dark)
+
 
 ## Activity Graph
 ![Kevin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=laodekevin&theme=react-dark)
