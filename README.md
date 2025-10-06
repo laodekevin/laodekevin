@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 Setiap ide berawal dari rasa penasaran, dan dari sanalah semuanya tumbuh.<br>Hai Saya Kevin, mahasiswa Teknik Informatika yang sedang fokus mendalami desain dan web development.<br>Saat ini saya sedang belajar berbagai bahasa pemrograman web agar bisa berguna dan siap saat lulus nanti.<br>Saya juga sering membuat desain konten dan sesekali mengunggah hasilnya ke media sosial.<br>Selain itu, saya memiliki ketertarikan di bidang pengembangan aplikasi, karena bagi saya teknologi bukan hanya soal kode, tetapi tentang bagaimana sesuatu bisa bermanfaat bagi orang lain.
 
-#### CONTACT
+## CONTACT
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282296650035)
 
 ## Soft Mood
