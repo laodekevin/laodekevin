@@ -66,13 +66,17 @@ tetapi tentang bagaimana sesuatu bisa bermanfaat bagi orang lain.
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laodekevin&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" height="150px">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=laodekevin&theme=dark&hide_border=false" width="48%" height="150px">
+  <img src="https://github-readme-stats.vercel.app/api?username=laodekevin&theme=dark&hide_border=false&include_all_commits=true&count_private=true" 
+       width="48%" height="150px">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=laodekevin&theme=dark&hide_border=false" 
+       width="48%" height="150px" style="object-fit: cover;">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laodekevin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laodekevin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" 
+       width="48%">
 </p>
+
 
 ## 🔝 Top Contributed Repo
 <p align="center">
