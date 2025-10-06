@@ -50,7 +50,7 @@ Setiap ide berawal dari rasa penasaran, dan dari sanalah semuanya tumbuh.<br>Hai
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white)
 
-## 📊 GitHub Stats
+<div style="text-align:center;"> ## 📊 GitHub Stats </div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=laodekevin&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" height="150px">
   <img src="https://nirzak-streak-stats.vercel.app/?user=laodekevin&theme=dark&hide_border=false" width="48%" height="150px">
@@ -60,7 +60,7 @@ Setiap ide berawal dari rasa penasaran, dan dari sanalah semuanya tumbuh.<br>Hai
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laodekevin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%">
 </p>
 
-## 🔝 Top Contributed Repo
+<div style="text-align:center;"> ## 🔝 Top Contributed Repo </div>
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=laodekevin&limit=5&theme=dark&combine_all_yearly_contributions=true" width="55%">
 </p>
