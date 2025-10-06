@@ -87,6 +87,9 @@ tetapi tentang bagaimana sesuatu bisa bermanfaat bagi orang lain.
   </a>
 </p>
 
+## Skill Chart
+![Kevin's Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=laodekevin&theme=github_dark)
+
 ## Activity Graph
 ![Kevin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=laodekevin&theme=react-dark)
 
