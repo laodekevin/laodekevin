@@ -22,13 +22,21 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 <h3 align="center">✨ Setiap ide berawal dari rasa penasaran ✨</h3>
+
 <p align="center">
-Hai Saya <b>Kevin</b>, mahasiswa <b>Teknik Informatika</b> yang sedang fokus mendalami <i>desain</i> dan <i>web development</i>.<br>
-Saat ini saya sedang belajar berbagai bahasa pemrograman web agar bisa berguna dan siap saat lulus nanti.<br>
-Saya juga sering membuat desain konten dan sesekali mengunggah hasilnya ke media sosial.<br>
-Selain itu, saya memiliki ketertarikan di bidang pengembangan aplikasi, karena bagi saya teknologi bukan hanya soal kode,<br>
-tetapi tentang bagaimana sesuatu bisa bermanfaat bagi orang lain.
+Hai, saya <b>Kevin</b> — mahasiswa <b>Teknik Informatika</b> yang sedang fokus mendalami <i>desain</i> dan <i>web development</i>.<br><br>
+
+Saat ini saya sedang belajar berbagai bahasa pemrograman web agar bisa berguna dan siap saat lulus nanti.<br><br>
+
+Saya juga memiliki ketertarikan di bidang <b>pengembangan aplikasi</b>, karena bagi saya teknologi bukan hanya soal kode,<br>
+tetapi tentang bagaimana sesuatu bisa <b>bermanfaat bagi orang lain</b>.<br><br>
+
+Selain itu, saya juga hobi <b>fotografi</b> — saya suka menangkap momen sederhana dari sudut yang berbeda,<br>
+dan sesekali <b>mengunggah hasil desain serta foto-foto saya ke media sosial</b>.<br><br>
+
+Bagi saya, setiap karya kecil adalah langkah menuju sesuatu yang lebih besar 🌱
 </p>
+
 
 
 ## Contact
