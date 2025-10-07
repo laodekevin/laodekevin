@@ -1,7 +1,7 @@
-![laodekevin](img/github-header-banner%20(2).png)
+![velvynn](img/github-header-banner%20(2).png)
 
 <!--
-**laodekevin/laodekevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**velvynn/velvynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div style="text-align:center;">
-
-
-
 
 
 # 💫 About Me:
@@ -32,7 +30,6 @@ tetapi tentang bagaimana sesuatu bisa bermanfaat bagi orang lain.
 </p>
 
 
-
 ## Contact
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/6282296650035)
 
@@ -44,7 +41,7 @@ tetapi tentang bagaimana sesuatu bisa bermanfaat bagi orang lain.
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@velvynn_)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@laodekevin-eb4wr?si=AsvOJLBaJh2lrqkI)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:laodekevin10@gmail.com)
-[![Threads](https://img.shields.io/badge/Threads-%23000000.svg?logo=Threads&logoColor=white)](https://www.threads.com/@velvynn_)
+[![Threads](https://img.shields.io/badge/Threads-%23000000.svg?logo=Threads&logoColor=white)](https://www.threads.net/@velvynn_)
 
 ## 💻 Developer Toolkit
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
@@ -65,38 +62,31 @@ tetapi tentang bagaimana sesuatu bisa bermanfaat bagi orang lain.
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 
 
-
-
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laodekevin&theme=dark&hide_border=false&include_all_commits=true&count_private=true" 
+  <img src="https://github-readme-stats.vercel.app/api?username=velvynn&theme=dark&hide_border=false&include_all_commits=true&count_private=true" 
        width="48%" height="150px">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=laodekevin&theme=dark&hide_border=false" 
+  <img src="https://nirzak-streak-stats.vercel.app/?user=velvynn&theme=dark&hide_border=false" 
        width="48%" height="150px" style="object-fit: cover;">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laodekevin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=velvynn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" 
        width="48%">
 </p>
 
 
 ## 🔝 Top Contributed Repo
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=laodekevin&limit=5&theme=dark&combine_all_yearly_contributions=true" width="55%">
+  <img src="https://github-contributor-stats.vercel.app/api?username=velvynn&limit=5&theme=dark&combine_all_yearly_contributions=true" width="55%">
 </p>
 
 ---
 
-
-
-
 ## Activity Graph
-![Kevin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=laodekevin&theme=react-dark)
+![Kevin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=velvynn&theme=react-dark)
 
-![Profile Views](https://komarev.com/ghpvc/?username=laodekevin&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=velvynn&color=blue)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
 </div>
-
